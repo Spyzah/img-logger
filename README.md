@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  Hatalar İçin Discord Sunucumuza Gelebilirsiniz
+  Spy Developer
 </p>
 
 <p align="center">
-  <a href="https://api.weblutions.com/discord/invite/vsc">
-    <img src="https://api.weblutions.com/discord/invite/vsc" alt="WraithsDev #CodeShare" />
+  <a href="">
+    <img src="" alt="WraithsDev #CodeShare" />
   </a>
 </p>
 
